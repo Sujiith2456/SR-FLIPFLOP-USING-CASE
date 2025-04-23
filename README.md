@@ -66,7 +66,7 @@ begin
 endmodule
 
 ```
-Developed by:Ramsanjay C RegisterNumber: 212224220077
+Developed by:Sujiith RegisterNumber: 24012036
 **RTL LOGIC FOR FLIPFLOPS**
 ![exp061](https://github.com/user-attachments/assets/f8c4b142-2ad3-4222-b887-d4684d8e0d34)
 
